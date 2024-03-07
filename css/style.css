@@ -257,7 +257,7 @@ nav li a:hover {
   top: 0;
   margin-left: -270px;
   margin-top: 250px;
-  background-image: url(/img/stipplet-line.png);
+  background-image: url(../img/stipplet-line.png);
   background-repeat: no-repeat;
   background-size: 850px;
 }
@@ -271,7 +271,7 @@ nav li a:hover {
   top: 0;
   margin-right: -270px;
   margin-top: -400px;
-  background-image: url(/img/stipplet-line.png);
+  background-image: url(../img/stipplet-line.png);
   background-position: bottom right;
   background-size: 750px;
   background-repeat: no-repeat;
